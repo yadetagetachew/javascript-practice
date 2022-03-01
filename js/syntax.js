@@ -16,21 +16,22 @@ no = false; // boolean (decision for condition)
 
 // complex/Compound datatypes
 object = {
-    name: "john"
-    age: 30,
+    name: "Yadi"
+    age: 27,
     isMarried: false
 };
 
-list = [ // array
-    "item1"
-    "item2"
-    "item3"
-];
+// list = [ // array
+//     "item1"
+//     "item2"
+//     "item3"
+// ];
 
 favoriteFood = [
-    "pizza",
-    "pasta",
-    "salad"
+    "BBQ",
+    "Mexican",
+    "Italian",
+    "Ethiopian-Food"
 ];
 
 console.log(age);
